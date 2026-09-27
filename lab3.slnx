@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/" />
+  <Project Path="lab3/lab3.vcxproj" Id="17c46688-b857-4e4a-8a1f-a4f153d7eaa5" />
+  <Project Path="lab3_1/lab3_1.vcxproj" Id="d8171013-6741-44a8-9534-b59c241b048c" />
+  <Project Path="lab3_2/lab3_2.vcxproj" Id="e715763a-9129-4419-a81b-47d6e350c4fc" />
+  <Project Path="lab3_3/lab3_3.vcxproj" Id="9ef3ae2e-e3a3-4699-86ce-dd72f50d78e7" />
+</Solution>

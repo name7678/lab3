@@ -8,5 +8,6 @@ int main() {
 	float f = s / 100 * q;
 	float c = pr * f;
 	printf("Стоимость поездки: %.2f ", c);
+	system("pause")
 	return 0;
 }
